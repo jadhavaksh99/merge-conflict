@@ -2,7 +2,7 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+	security patch on master
 }
 
 Initial Security()
