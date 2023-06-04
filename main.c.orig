@@ -2,11 +2,11 @@ pseudo code
 {
 Initial Function()
 {
-
+<<<<<<< HEAD
 	security patch on master
-
+=======
 	security patch for feature1 
-
+>>>>>>> feature1
 }
 
 Initial Security()
